@@ -1,0 +1,7 @@
+2025-11-18
+CPT-LGW
+Z0796
+
+Detectors: 
+- Safecast bGeigie Zen
+- Prototype CND
